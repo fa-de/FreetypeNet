@@ -1,0 +1,7 @@
+Debug/*
+Release/*
+freetype-2.3.5/*
+
+*.sdf
+*.opensdf
+*.suo
